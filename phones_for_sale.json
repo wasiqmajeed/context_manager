@@ -1,0 +1,36 @@
+{
+ "brands": [
+  "Apple",
+  "Samsung",
+  "Google",
+  "OnePlus"
+ ],
+ "on_sale": [
+  {
+   "brand": "Samsung",
+   "model": "Galaxy S23 Ultra",
+   "price": 1188.0,
+   "discount": 10,
+   "original_price": 1320.0
+  },
+  {
+   "brand": "Google",
+   "model": "Pixel 7 Pro",
+   "price": 899.0,
+   "discount": 5,
+   "original_price": 949.0
+  }
+ ],
+ "accessories": {
+  "cases": [
+   "Clear Case",
+   "Leather Case",
+   "Silicone Case"
+  ],
+  "chargers": [
+   "Wireless Charger",
+   "Car Charger",
+   "Power Bank"
+  ]
+ }
+}
