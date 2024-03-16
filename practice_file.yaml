@@ -6,6 +6,9 @@ electronic_store:
   - comment: Competitive prices and fast shipping.
     name: Bob Smith
     rating: 4
+  - comment: This shop has amazing products and great deals
+    name: Wasiq Wani
+    rating: 5
   departments:
     laptops:
       brands:
@@ -29,7 +32,7 @@ electronic_store:
         quantity: 10
       - brand: Lenovo
         model: IdeaPad Flex 5
-        price: 649.99
+        price: 549.99
         quantity: 5
     smartphones:
       accessories:
